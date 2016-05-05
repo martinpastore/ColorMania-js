@@ -1,0 +1,16 @@
+html{
+	background-color: black;
+}
+canvas{
+	background-color: white;
+	margin-left: 22%;
+	margin-top: 3%;
+	position: absolute;	
+}
+h1{
+	color: #8633FF;
+	font-family: arial, sans-serif;
+	letter-spacing: 2px;
+	font-style: bold;
+	margin-left: 41%;
+}
